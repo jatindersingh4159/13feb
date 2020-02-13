@@ -1,0 +1,9 @@
+<html>
+<body>
+<script language="javascript" type="text/javascripe">
+<!--
+document.write("helloworld!")
+//-->
+</script>
+</body>
+</html>
